@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="Color_1">#c5e26d</color>
+    <color name="Color_2">#0fa1d3</color>
+    <color name="Color_3">#a750d3</color>
+    <color name="Color_4">#75a800</color>
+    <color name="Color_5">#ff9909</color>
+    <color name="Color_6">#db1313</color>
+    <color name="Color_7">#000000</color>
+    <color name="Color_8">#b40404</color>
+    <color name="Color_9">#df0101</color>
+    <color name="Color_10">#df7401</color>
+    <color name="Color_11">#ffbf00</color>
+    <color name="Color_12">#ffff00</color>
+    <color name="Color_13">#80ff00</color>
+    <color name="Color_14">#00ff00</color>
+    <color name="Color_15">#00ff40</color>
+    <color name="Color_16">#0101df</color>
+    <color name="Color_17">#1b0a2a</color>
+    <color name="Color_18">#e0f8f7</color>
+    <color name="Color_19">#f7819f</color>
+    <color name="Color_20">#fe2e64</color>
+    <color name="Color_21">#ff0040</color>
+    <color name="Color_22">#ff0080</color>
+    <color name="Color_23">#ff00bf</color>
+    <color name="Color_24">#ff00ff</color>
+    <color name="Color_25">#4b088a</color>
+    <color name="Color_26">#fa8258</color>
+    <color name="Color_27">#08298a</color>
+    <color name="Color_28">#8a0886</color>
+</resources>
